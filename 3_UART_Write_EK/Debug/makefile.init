@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Renesas\RA\e2studio_v2022-04_fsp_v3.7.0\toolchains\gcc_arm\9_2020q2\bin\;C:\Renesas\RA\e2studio_v2022-04_fsp_v3.7.0\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.5.v20220125-0945\bin\;C:\Renesas\RA\e2studio_v2022-04_fsp_v3.7.0\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.0.v20220121-1024\mk\;C:/Renesas/RA/e2studio_v2022-04_fsp_v3.7.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.14.v20220314-1349/jre/bin/server;C:/Renesas/RA/e2studio_v2022-04_fsp_v3.7.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.14.v20220314-1349/jre/bin;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C;C:\Program Files\PuTTY\;C:\Users\mehmet.tartan.ALPMERKEZ\AppData\Local\Microsoft\WindowsApps;C:\Users\mehmet.tartan.ALPMERKEZ\AppData\Local\Programs\Git\cmd;C:\Users\mehmet.tartan.ALPMERKEZ\AppData\Local\GitHubDesktop\bin;C:\Users\mehmet.tartan.ALPMERKEZ\AppData\Local\Programs\Microsoft VS Code\bin;C:\Renesas\RA\e2studio_v2022-04_fsp_v3.7.0\eclipse
+export TCINSTALL=C:\Renesas\RA\e2studio_v2022-04_fsp_v3.7.0\toolchains\gcc_arm\9_2020q2$(call arg1,\)
+export CWD=$(CURDIR)
+export TC_VERSION=9.3.1.20200408
+export PWD=$(CURDIR)
+export GCC_VERSION=9.3.1
